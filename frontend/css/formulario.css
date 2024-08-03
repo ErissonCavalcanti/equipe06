@@ -108,6 +108,19 @@
     background-color: #eb5757;
   }
   
+  .Linha-separadora-form {
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    overflow: hidden;
+    height: auto;
+    padding: 10px;
+}
+
+.img-linha {
+    animation: move-line 5s linear infinite;
+}
 }
 
 
